@@ -12,7 +12,7 @@ Tools Used: Excel, Power BI, Tableau and python
 
 Team Members 
 1. Manar Nasr Ibrahim ( Team leader)
-2. Nourhan Mohammed Muhammad Abdel-Tawab
+2. Nourhan Mohamed Mahmoud Abdel-Tawab
 3. shahd Mohammed Muawad Ahmed
 4. ola Mohamed Abdelhamid Ali
 5. Muhammad yahy Mohammed abd-elrazzaq
