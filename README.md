@@ -1,30 +1,30 @@
 # Supply-Chain-Analysis
 
-Project Description
+## Project Description
 
-This project focuses on analyzing the supply chain data of DataCo, a company specializing in selling sports products worldwide. The project uses a dataset containing approximately 180,000 sales transactions from 2015 to 2017, covering sales, profits, customers, shipping methods, and delivery statuses.
+This project focuses on analyzing DataCo's global supply chain data using BI tools, focusing on data cleaning, preprocessing, and interactive dashboard development to support data-driven decision-making. The dataset contains approximately 180,000 sales transactions from 2015 to 2017.
 
-The main objective is to clean and analyze the data using Power BI and answer key business questions that support decision-making, such as the impact of product categories on revenue, the reasons behind delivery delays, the most profitable markets and customers, and the effect of shipping methods on service quality.
+## Tools Used
 
-Finally, an interactive Power BI dashboard will be developed, along with a final report and presentation highlighting the key findings and recommendations.
+- Excel
+- Power BI
+- Tableau
+- Python
 
-Tools Used: Excel, Power BI, Tableau and python 
+## Team Members
 
-Team Members 
-1. Manar Nasr Ibrahim ( Team leader)
+1. **Manar Nasr Ibrahim** — Team Leader
 2. Nourhan Mohamed Mahmoud Abdel-Tawab
-3. shahd Mohammed Muawad Ahmed
-4. ola Mohamed Abdelhamid Ali
-5. Muhammad yahy Mohammed abd-elrazzaq
-6. Martin Milad gamil nagip
-   
-Instructor Name
+3. Shahd Mohammed Muawad Ahmed
+4. Ola Mohamed Abdelhamid Ali
+5. Muhammad Yahya Mohammed Abdelrazzaq
+6. Martin Milad Gamil Nagib
+
+## Instructor Name
+
 Eng. Fatimah Ehab Farouk
 
+## Project Links
 
-Google Drive Link
-https://drive.google.com/drive/folders/1TnydAgUrdRYruCsezCgereYtEzuWlOVl
-
-MS Onedrive Link 
-https://1drv.ms/f/c/FA7D10A77F2E4661/IgDDP0_1BLzRS7GsRIvDfCp7AeEQH6RhcG-0tK4i_BX5GOI?e=QPBwTy
-
+- [Google Drive](https://drive.google.com/drive/folders/1TnydAgUrdRYruCsezCgereYtEzuWlOVl)
+- [Microsoft OneDrive](https://1drv.ms/f/c/FA7D10A77F2E4661/IgDDP0_1BLzRS7GsRIvDfCp7AeEQH6RhcG-0tK4i_BX5GOI?e=QPBwTy)
