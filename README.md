@@ -9,6 +9,7 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 - Excel
 - Power BI
 - Tableau
+- SQL 
 - Python
 
 ## Team Members
