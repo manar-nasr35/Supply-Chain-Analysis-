@@ -23,7 +23,7 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 
 ## Instructor Name
 
-Eng. Fatimah Ehab Farouk
+**Eng. Fatimah Ehab Farouk**
 
 ## Project Links
 
