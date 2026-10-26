@@ -9,6 +9,7 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 - Excel
 - Power BI
 - Tableau
+- Figma
 - SQL 
 - Python
 
@@ -21,11 +22,46 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 5. Muhammad Yahya Mohammed Abdelrazzaq
 6. Martin Milad Gamil Nagib
 
-## Instructor Name
+## 🛠️ Tools & Team Responsibilities
 
+### 1. Power BI
+
+| Task | Responsible Team Members |
+|---|---|
+| Data Cleaning | Manar Nasr, Norhan |
+| Data Transformation | Ola |
+| Data Preparation | Mohamed Yehia, Martin |
+| Data Modeling | Shahd |
+| Data Visualization | Manar Nasr, Norhan |
+
+### 2. Excel
+
+| Task | Responsible Team Members |
+|---|---|
+| Excel Tasks | Manar Nasr, Norhan, Martin |
+
+### 3. Tableau
+
+| Task | Responsible Team Members |
+|---|---|
+| Tableau Tasks | |
+
+### 4. SQL
+
+| Task | Responsible Team Members |
+|---|---|
+| SQL Tasks | |
+
+### 5. Python
+
+| Task | Responsible Team Members |
+|---|---|
+| Python Tasks | |
+## Instructor Name
 **Eng. Fatimah Ehab Farouk**
 
 ## Project Links
 
 - [Google Drive](https://drive.google.com/drive/folders/1TnydAgUrdRYruCsezCgereYtEzuWlOVl)
 - [Microsoft OneDrive](https://1drv.ms/f/c/FA7D10A77F2E4661/IgDDP0_1BLzRS7GsRIvDfCp7AeEQH6RhcG-0tK4i_BX5GOI?e=QPBwTy)
+
