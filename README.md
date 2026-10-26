@@ -31,7 +31,7 @@ This project focuses on analyzing **DataCo's** global supply chain data using BI
 
 | Task | Responsible Team Members |
 |---|---|
-| Excel Tasks | Manar Nasr, Nourhan Mohamed, Martin Milad |
+| Excel Dashboard | Manar Nasr, Nourhan Mohamed, Martin Milad |
 
 ## Instructor Name
 **Eng. Fatimah Ehab Farouk**
