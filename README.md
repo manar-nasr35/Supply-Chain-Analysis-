@@ -32,7 +32,7 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 | Data Transformation | Ola |
 | Data Preparation | Mohamed Yehia, Martin |
 | Data Modeling | Shahd |
-| Data Visualization | Manar Nasr, Norhan |
+| Data Visualization | All |
 
 ### 2. Excel
 
