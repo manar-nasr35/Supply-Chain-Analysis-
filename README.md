@@ -1,17 +1,10 @@
-# Supply-Chain-Analysis
+# Supply Chain Analysis
+
+**Power BI • Excel • Python • SQL • Tableau**
 
 ## Project Description
 
 This project focuses on analyzing DataCo's global supply chain data using BI tools, focusing on data cleaning, preprocessing, and interactive dashboard development to support data-driven decision-making. The dataset contains approximately 180,000 sales transactions from 2015 to 2017.
-
-## Tools Used
-
-- Excel
-- Power BI
-- Tableau
-- Figma
-- SQL 
-- Python
 
 ## Team Members
 
