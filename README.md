@@ -40,23 +40,6 @@ This project focuses on analyzing DataCo's global supply chain data using BI too
 |---|---|
 | Excel Tasks | Manar Nasr, Norhan, Martin |
 
-### 3. Tableau
-
-| Task | Responsible Team Members |
-|---|---|
-| Tableau Tasks | |
-
-### 4. SQL
-
-| Task | Responsible Team Members |
-|---|---|
-| SQL Tasks | |
-
-### 5. Python
-
-| Task | Responsible Team Members |
-|---|---|
-| Python Tasks | |
 ## Instructor Name
 **Eng. Fatimah Ehab Farouk**
 
