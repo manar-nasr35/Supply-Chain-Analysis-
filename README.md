@@ -21,17 +21,17 @@ This project focuses on analyzing **DataCo's** global supply chain data using BI
 
 | Task | Responsible Team Members |
 |---|---|
-| Data Cleaning | Manar Nasr, Norhan |
-| Data Transformation | Ola |
-| Data Preparation | Mohamed Yehia, Martin |
-| Data Modeling | Shahd |
+| Data Cleaning | Manar Nasr, Nourhan Mohamed |
+| Data Transformation | Ola Mohamed |
+| Data Preparation | Mohamed Yehia, Martin Milad |
+| Data Modeling | Shahd Mohammed |
 | Data Visualization | All |
 
 ### 2. Excel
 
 | Task | Responsible Team Members |
 |---|---|
-| Excel Tasks | Manar Nasr, Norhan, Martin |
+| Excel Tasks | Manar Nasr, Nourhan Mohamed, Martin Milad |
 
 ## Instructor Name
 **Eng. Fatimah Ehab Farouk**
